@@ -4,27 +4,49 @@
 
 - principle：设计原则；
 - patterns：设计模式；
-- javascript-patterns：基于JavaScript的设计模式实现。
+- patterns-ts：基于TypeScript的设计模式实现。
 
 #### 设计原则
 
-- SRP；
-- OCP；
-- LSP；
-- ISP；
-- DIP。
+- [x] SRP；
+- [x] OCP；
+- [x] LSP；
+- [x] ISP；
+- [x] DIP。
 
 #### 设计模式
 
 ##### 创建型模式
 
-- Abstract Factory；
-- Builder；
-- Factory Method；
-- Prototype；
-- Singleton。
+- [x] Abstract Factory；
+- [x] Builder；
+- [ ] Factory Method；
+- [ ] Prototype；
+- [ ] Singleton。
 
-##### 结构性模式
+##### 结构型模式
 
-- Adapter；
+- [ ] Adapter；
+- [ ] Bridge；
+- [ ] Composite；
+- [ ] Decorator;
+- [ ] Facade;
+- [ ] FlyWeight;
+- [ ] Proxy;
+
+##### 行为模式
+
+- [ ] Chain Of Responsibility；
+- [ ] Command；
+- [ ] Interpreter：
+- [ ] Iterator；
+- [ ] Mediator；
+- [ ] Memento；
+- [ ] Observer；
+- [ ] State；
+- [ ] Strategy；
+- [ ] Template Method；
+- [ ] Visitor。
+
+
 

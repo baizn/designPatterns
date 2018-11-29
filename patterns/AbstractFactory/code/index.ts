@@ -59,6 +59,7 @@ class Door implements IMapSite {
 
 class Maze {
   private rooms: IMapSite[] = []
+  constructor() {}
   public addRoom(room: IMapSite): void {
     this.rooms.push(room)
   }

@@ -20,9 +20,9 @@
 
 - [x] Abstract Factory；
 - [x] Builder；
-- [ ] Factory Method；
-- [ ] Prototype；
-- [ ] Singleton。
+- [x] Factory Method；
+- [x] Prototype；
+- [x] Singleton。
 
 ##### 结构型模式
 

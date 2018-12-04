@@ -2,12 +2,9 @@
  * @Author: baizn
  * @Date: 2018-11-28 10:01:02
  * @LastEditors: baizn
- * @LastEditTime: 2018-11-28 10:26:31
+ * @LastEditTime: 2018-12-03 10:09:51
  * @Description: 使用Builder模式实现迷宫的创建
  */
-interface IMapSite {
-  enter(): number
-}
 
  // Builder接口
 interface IMazeBuilder {
@@ -46,7 +43,7 @@ class StandardMazeBuilder implements IMazeBuilder {
   }
 }
 
-class MazeGame {
+class MazeGame1 {
   createMaze(mazeBuilder: IMazeBuilder) {
     mazeBuilder.buildMaze()
     mazeBuilder.buildRoom(1)
@@ -56,5 +53,5 @@ class MazeGame {
   }
 }
 
-const game = new MazeGame()
+const game = new MazeGame1()
 game.createMaze(new StandardMazeBuilder())

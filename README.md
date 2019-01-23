@@ -26,7 +26,7 @@
 
 ##### 结构型模式
 
-- [ ] Adapter；
+- [x] Adapter；
 - [ ] Bridge；
 - [ ] Composite；
 - [ ] Decorator;

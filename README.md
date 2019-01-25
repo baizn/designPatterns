@@ -28,7 +28,7 @@
 
 - [x] Adapter；
 - [x] Bridge；
-- [ ] Composite；
+- [x] Composite；
 - [ ] Decorator;
 - [ ] Facade;
 - [ ] FlyWeight;

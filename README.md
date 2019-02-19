@@ -29,10 +29,10 @@
 - [x] Adapter；
 - [x] Bridge；
 - [x] Composite；
-- [ ] Decorator;
-- [ ] Facade;
-- [ ] FlyWeight;
-- [ ] Proxy;
+- [x] Decorator;
+- [x] Facade;
+- [x] FlyWeight;
+- [x] Proxy;
 
 ##### 行为模式
 
